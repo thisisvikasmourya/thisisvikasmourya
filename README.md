@@ -20,8 +20,8 @@ Education meets innovation. Check out the Digital Aided School website at [Digit
 ## 💼 Project5 - Digitech Ladder
 Climb the ladder of digital success with Digitech Ladder. Explore their world at [DigitechLadder.com](https://www.digitechladder.com/).
 
-## 🌟 Project6 - Nexthome Redux
-Nexthome is so nice, I made it twice! The rental property website is back at [Nexthome](https://nexthome.thisisvikasmourya.vercel.app/).
+## 🌟 Project6 - Moram Napu 
+Nexthome is so nice, I made it twice! The rental property website is back at [Nexthome](https://www.moramnapu.com/).
 
 ## 🚀 Project7 - Dijitization Magic
 Witness the magic of digitization! My extension and website, Dijitization, revolutionize chat and task management. Discover it (Digital Adoption Platform) [here](https://dijitization.com/).
