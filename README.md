@@ -5,7 +5,7 @@ Welcome to my digital playground, where I craft online experiences that are more
 ## 🌦️ Project0 - Weather Wonders
 Explore the world's weather with just a click! I've conjured up a Weather API using ReactJS. See it in action [here](https://weather-app.thisisvikasmourya.vercel.app/).
 
-## 🗺️ Project1 - Text Transformer
+## 🗺️ Project1 - Text Translator
 Lost in translation? Fear not! My Text Translator web app is at your service. Experience it [here](https://text-translator.vercel.app/).
 
 ## 🚀 Project2 - DevLine
