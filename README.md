@@ -1,29 +1,93 @@
-## Hey, I'm Vikas Mourya, Your Web Wizard! 🚀
+# 👋 Hey, I'm Vikas Mourya — Your Web Wizard! ⚡
 
-Welcome to my digital playground, where I craft online experiences that are more than just websites; they're journeys. Let me take you on a tour of my coding adventures:
+Welcome to my digital playground, where I turn ideas into interactive experiences.  
+I build powerful web apps that blend creativity, logic, and precision — one project at a time.
 
-## 🌦️ Project0 - Weather Wonders
-Explore the world's weather with just a click! I've conjured up a Weather API using ReactJS. See it in action [here](https://weather-app.thisisvikasmourya.vercel.app/).
+---
 
-## 🗺️ Project1 - Text Translator
-Lost in translation? Fear not! My Text Translator web app is at your service. Experience it [here](https://text-translator.vercel.app/).
+## 🧩 Featured Projects
 
-## 🚀 Project2 - DevLine
-Step into the future with Next.js, React.js, and GraphQL! Get ready to code your dreams at [DevLine](https://devline.thisisvikasmourya.vercel.app/).
+### 🗂️ DMS — Document Management System
+A complete Document Management System built from scratch using **Next.js**, **Redux**, and **Node.js**.  
+Designed for seamless file handling, metadata management, and real-time collaboration.  
+🧠 Smart, scalable, and secure — DMS redefines how teams manage their digital documents.
 
-## 🏡 Project3 - Nexthome
-Finding a new home? Let Nexthome guide you to your dream rental property. Discover it [here](https://nexthome.thisisvikasmourya.vercel.app/).
+🔗 *production!*
 
-## 🏫 Project4 - Digital Aided School
-Education meets innovation. Check out the Digital Aided School website at [DigitalAidedSchool.com](https://digitalaidedschool.com/).
+---
+### 🧠 Resumaize — AI Resume Analyzer (by Producly)
+I built **Resumaize** at **Producly**, an intelligent **AI-powered resume analyzer** that empowers both job seekers and companies.  
+It evaluates resumes using advanced algorithms to generate a **resume score**, helping candidates improve their profiles and enabling companies to **hire smarter** based on data-driven insights.  
 
-## 💼 Project5 - Digitech Ladder
-Climb the ladder of digital success with Digitech Ladder. Explore their world at [DigitechLadder.com](https://www.digitechladder.com/).
+Built with **Next.js**, **React Query**, and **Node.js**, Resumaize delivers real-time analysis, clean dashboards, and actionable insights for recruiters and candidates alike.
 
-## 🌟 Project6 - Moram Napu 
-Nexthome is so nice, I made it twice! The rental property website is back at [Nexthome](https://www.moramnapu.com/).
+---
 
-## 🚀 Project7 - Dijitization Magic
-Witness the magic of digitization! My extension and website, Dijitization, revolutionize chat and task management. Discover it (Digital Adoption Platform) [here](https://dijitization.com/).
+## 🌦️ Project0 — Weather Wonders
+Explore the world's weather with just a click!  
+A ReactJS-based Weather API app that delivers accurate forecasts in style.  
+☁️ See it live: [Weather Wonders](https://weather-app.thisisvikasmourya.vercel.app/)
 
-These projects are more than lines of code; they're my passion and creativity brought to life. Join me on this journey of innovation, and let's create digital wonders together! 🚀
+---
+
+## 🗺️ Project1 — Text Translator
+Lost in translation? Not anymore!  
+This text translator app bridges language gaps with ease using APIs and smooth UI.  
+🌍 Try it here: [Text Translator](https://text-translator.vercel.app/)
+
+---
+
+## 🚀 Project2 — DevLine
+A developer’s dream workspace built with **Next.js**, **React.js**, and **GraphQL**.  
+Where code meets creativity — empowering developers to build smarter.  
+💻 Visit: [DevLine](https://devline.thisisvikasmourya.vercel.app/)
+
+---
+
+## 🏡 Project3 — Nexthome
+Find your dream home with ease!  
+A modern rental property web app that simplifies house hunting with an intuitive UI and filters.  
+🏠 Explore: [Nexthome](https://nexthome.thisisvikasmourya.vercel.app/)
+
+---
+
+## 🏫 Project4 — Digital Aided School
+When education meets innovation!  
+A digital transformation for schools — building smarter classrooms online.  
+📚 Visit: [Digital Aided School](https://digitalaidedschool.com/)
+
+---
+
+## 💼 Project5 — Digitech Ladder
+Climb higher in the digital world with Digitech Ladder.  
+A corporate website designed to showcase digital services with impact.  
+🚀 Explore: [Digitech Ladder](https://www.digitechladder.com/)
+
+---
+
+## 🌟 Project6 — Moram Napu
+Nexthome was so nice, I made it twice!  
+Another beautifully crafted property rental platform designed for a smooth user experience.  
+🏘️ Visit: [Moram Napu](https://www.moramnapu.com/)
+
+---
+
+## ✨ Project7 — Dijitization Magic
+The magic of digital transformation!  
+Dijitization (Digital Adoption Platform) combines web extensions and a full-stack dashboard  
+to streamline chat, task, and user engagement.  
+🔮 Experience it: [Dijitization](https://dijitization.com/)
+
+---
+
+## 🚀 Let’s Build the Future Together
+These projects are not just lines of code — they’re stories of creativity, passion, and innovation.  
+Whether it’s web apps, digital platforms, or AI-powered tools, I bring ideas to life through clean, scalable, and human-focused design.
+
+📫 Let’s connect and create something extraordinary!  
+**Portfolio:** [thisisvikasmourya.vercel.app](https://thisisvikasmourya.vercel.app)  
+**LinkedIn:** [linkedin.com/in/thisisvikasmourya](https://linkedin.com/in/thisisvikasmourya)
+
+---
+
+🪄 *Crafted with passion by Vikas Mourya — turning ideas into digital reality.*
